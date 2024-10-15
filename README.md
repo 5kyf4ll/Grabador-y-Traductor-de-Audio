@@ -36,3 +36,9 @@ Este proyecto es una aplicación de escritorio en Python que permite grabar audi
 
    # Activar el entorno virtual
    venv\Scripts\activate
+
+2. **Instalar las librerias**:
+
+```bash
+   # Abre el símbolo del sistema y navega a tu directorio de proyecto
+   pip install -r requirements.txt
