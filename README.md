@@ -39,6 +39,11 @@ Este proyecto es una aplicación de escritorio en Python que permite grabar audi
 
 2. **Instalar las librerias**:
 
-```bash
+   ```bash
    # Abre el símbolo del sistema y navega a tu directorio de proyecto
    pip install -r requirements.txt
+
+3. **Ejecutar proyecto**:
+   ```bash
+   # Abre el símbolo del sistema y navega a tu directorio de proyecto
+   python grabador_transcriptor.py
