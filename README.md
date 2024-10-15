@@ -46,4 +46,4 @@ Este proyecto es una aplicación de escritorio en Python que permite grabar audi
 3. **Ejecutar proyecto**:
    ```bash
    # Abre el símbolo del sistema y navega a tu directorio de proyecto
-   python grabador_transcriptor.py
+   python grabador_transcriptor_traductor.py
